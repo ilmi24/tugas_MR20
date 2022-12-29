@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T10:02:53.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="nBlqkpBTjWR4iJ_sn5AE" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T10:43:04.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="M-QAp9YD7PdsvZnhjKBo" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="838" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,14 +24,17 @@
         <mxCell id="s23jrKbNFrbFC5fdX6nY-3" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Searching for Case Study&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="127" width="120" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-5" target="s23jrKbNFrbFC5fdX6nY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-5" value="Further Analysis about how ISD helped Co-Creation to exist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-6" value="Problem Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="380" width="120" height="35" as="geometry" />
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-6" target="s23jrKbNFrbFC5fdX6nY-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-7" value="Problem Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="420" width="120" height="35" as="geometry" />
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-6" value="Making Conclusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="390" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-11" target="s23jrKbNFrbFC5fdX6nY-19">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +66,9 @@
         <mxCell id="s23jrKbNFrbFC5fdX6nY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-19" target="s23jrKbNFrbFC5fdX6nY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-19" target="s23jrKbNFrbFC5fdX6nY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-19" value="Case Study Analysis with Zwass&#39; Taxonomy Framework" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="70" as="geometry" />
         </mxCell>
@@ -80,6 +86,9 @@
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-28" value="Return" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="405" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-30" value="Finish" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="460" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
