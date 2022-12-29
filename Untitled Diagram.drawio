@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T07:44:28.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="4on7nWBMSyxmTIlVkUil" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T07:54:08.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="tNvhCUnCEx6B0ufvdPjs" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="838" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,22 +6,22 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="110" as="sourcePoint" />
-            <mxPoint x="530" y="160" as="targetPoint" />
+            <mxPoint x="640" y="420" as="sourcePoint" />
+            <mxPoint x="640" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="590" y="110" as="sourcePoint" />
-            <mxPoint x="590" y="170" as="targetPoint" />
+            <mxPoint x="590" y="405" as="sourcePoint" />
+            <mxPoint x="590" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-1" target="s23jrKbNFrbFC5fdX6nY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-1" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-2" target="s23jrKbNFrbFC5fdX6nY-3">
           <mxGeometry relative="1" as="geometry" />
@@ -29,17 +29,13 @@
         <mxCell id="s23jrKbNFrbFC5fdX6nY-2" value="Problem Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="67.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-3" target="s23jrKbNFrbFC5fdX6nY-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-3" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Searching for Case Study&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="127" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-4" target="s23jrKbNFrbFC5fdX6nY-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-4" value="Case Study Analysis with Zwass&#39; Taxonomy Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s23jrKbNFrbFC5fdX6nY-5" value="Problem Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="35" as="geometry" />
@@ -50,14 +46,32 @@
         <mxCell id="s23jrKbNFrbFC5fdX6nY-7" value="Problem Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="420" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-11" target="s23jrKbNFrbFC5fdX6nY-4">
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-11" target="s23jrKbNFrbFC5fdX6nY-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-11" value="Actors" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="200" width="120" height="60" as="geometry" />
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-11" value="Actors in the case" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s23jrKbNFrbFC5fdX6nY-12" value="Taxonomy Framework" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-12" value="Case&#39;s&lt;br&gt;Taxonomy Framework" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-15" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="80" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-17" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="135" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-18" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="190" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s23jrKbNFrbFC5fdX6nY-19" target="s23jrKbNFrbFC5fdX6nY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-19" value="Case Study Analysis with Zwass&#39; Taxonomy Framework" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s23jrKbNFrbFC5fdX6nY-22" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Case Study Analysis&lt;br&gt;with Zwass&#39; Taxonomy&lt;br&gt;Framework&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="10" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
